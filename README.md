@@ -1,6 +1,6 @@
 # Learning Interactive Multi-Object Segmentation through Deep Recurrent Attention
 
-## 1. Paper (To Be Submitted)
+## 1. Paper: "Yan Gui, Bingqing Zhou, Jianming Zhang, Cheng Sun, Lingyun Xiang, Jin Zhang. Learning Interactive Multi-Object Segmentation through Appearance Embedding and Spatial Attention, Submitted to Neural Networks, 2021"
 
 ## 2. Run Demo App
 
