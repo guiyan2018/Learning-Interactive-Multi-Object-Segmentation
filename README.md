@@ -1,6 +1,6 @@
 # Learning Interactive Multi-Object Segmentation 
 
-## 1. Paper: "Yan Gui, Bingqing Zhou, Jianming Zhang, Cheng Sun, Lingyun Xiang, Jin Zhang. Learning Interactive Multi-Object Segmentation through Appearance Embedding and Spatial Attention, Submitted to Neurocomputing, 2021"
+## 1. Paper: "Yan Gui, Bingqing Zhou, Jianming Zhang, Cheng Sun, Lingyun Xiang, Jin Zhang. Learning Interactive Multi-Object Segmentation through Appearance Embedding and Spatial Attention, Submitted to IET Image Processing, 2021"
 
 ## 2. Run Demo App
 
